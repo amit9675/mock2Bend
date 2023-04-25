@@ -1,4 +1,87 @@
 {
-  "cars": [],
-  "wishlisted_cars":[]
+  "cars": [
+    {
+      "brand": "MAHINDRA",
+      "type": "AUTOMATIC",
+      "year": "2018",
+      "kms": 18000,
+      "Description": "SUZUKI",
+      "Price": 1,
+      "id": 1
+    },
+    {
+      "brand": "TATA",
+      "type": "MANUAL",
+      "year": "1978",
+      "kms": 1,
+      "Description": "INDICA",
+      "Price": 2,
+      "id": 2
+    },
+    {
+      "brand": "TATA",
+      "type": "MANUAL",
+      "year": "1978",
+      "kms": 4,
+      "Description": "INDICA",
+      "Price": 3,
+      "id": 3
+    },
+    {
+      "brand": "AUDI",
+      "type": "MANUAL",
+      "year": "2020",
+      "kms": 879487,
+      "Description": "A5",
+      "Price": 4,
+      "id": 4
+    },
+    {
+      "brand": "MARUTI",
+      "type": "AUTOMATIC",
+      "year": "2022",
+      "kms": 18000,
+      "Description": "breeza",
+      "Price": 28004,
+      "id": 5
+    }
+  ],
+  "wishlisted_cars": [
+    {
+      "brand": "MAHINDRA",
+      "type": "AUTOMATIC",
+      "year": "2018",
+      "kms": 18000,
+      "Description": "SUZUKI",
+      "Price": 1,
+      "id": 1
+    },
+    {
+      "brand": "MARUTI",
+      "type": "AUTOMATIC",
+      "year": "2022",
+      "kms": 18000,
+      "Description": "breeza",
+      "Price": 28004,
+      "id": 5
+    },
+    {
+      "brand": "TATA",
+      "type": "MANUAL",
+      "year": "1978",
+      "kms": 1,
+      "Description": "INDICA",
+      "Price": 2,
+      "id": 2
+    },
+    {
+      "brand": "TATA",
+      "type": "MANUAL",
+      "year": "1978",
+      "kms": 4,
+      "Description": "INDICA",
+      "Price": 3,
+      "id": 3
+    }
+  ]
 }
